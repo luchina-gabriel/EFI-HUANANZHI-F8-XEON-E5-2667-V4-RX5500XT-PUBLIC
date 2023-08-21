@@ -1,5 +1,7 @@
 # Perfect Xeon E5 v4 Hackintosh - Huananzhi F8 + Intel Xeon E5 2667 v4 + RX 5500 XT
 
+![About - Overview](https://github.com/luchina-gabriel/EFI-HUANANZHI-F8-XEON-E5-2667-V4-RX5500XT-PUBLIC/assets/23700365/c713ed2b-ecbc-44e4-839e-d71c83be9cfd)
+
 # Basic Information
 
 **Latest working macOS**: macOS Ventura (13.5.1)
