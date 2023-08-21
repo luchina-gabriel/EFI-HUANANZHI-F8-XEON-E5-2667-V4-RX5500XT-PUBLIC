@@ -34,6 +34,7 @@
 |GPU AMD RX 5500 XT 8Gb|https://s.click.aliexpress.com/e/_DBirKyB|
 |NVME Gen4 Kingston 500Gb|https://s.click.aliexpress.com/e/_DBK5Xub|
 |Wireless & Bluetooth with AirDrop|https://s.click.aliexpress.com/e/_DCADLAT|
+|Memória DDR4 ECC para XEON|https://s.click.aliexpress.com/e/_De7dnhz|
 
 ## Hackintosh Creator
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
